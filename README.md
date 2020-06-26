@@ -75,3 +75,6 @@ cd P1_Facial_Keypoints
 ```shell
 jupyter notebook
 ```
+
+
+LICENSE: This project is licensed under the terms of the MIT license.
