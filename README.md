@@ -9,7 +9,7 @@
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
-* Load and Visualize Data
+		* Load and Visualize Data
 
 __Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
 
