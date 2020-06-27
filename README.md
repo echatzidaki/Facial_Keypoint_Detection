@@ -9,8 +9,6 @@
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
-		* Load and Visualize Data
-
 __Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
 
 __Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
